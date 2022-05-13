@@ -1,0 +1,73 @@
+body {
+    font-family: sans-serif;
+    font-size: 20px;
+}
+nav{
+    margin:20px;
+    text-align:center;
+}
+h1{
+    text-align: center;
+    color:darkmagenta;
+}
+header a{
+    background-color: blue;
+    text-decoration: none;
+    border-radius:5px;
+    color:white;
+    padding:5px;
+}
+header{
+    background-color:lightblue;
+    padding:10px;
+}
+footer{
+    background-color:rgb(230, 138, 0);
+    border:2px solid rgb(230, 138, 0);
+    
+
+}
+footer p{
+    background-color:white;
+    margin:5px;
+}
+nav a{
+    margin: 30px;
+    background-color: burlywood;
+    text-decoration:none;
+    border-radius:5px;
+    padding:7px;
+    color:black;
+}
+.da{
+    border:2px solid burlywood;
+    background-color:white;
+    color:red;
+}
+.papa{
+    background-color:burlywood;
+    border-radius:10px;
+}
+h2{
+    color:blue;
+}
+.ded{
+    text-decoration:none;
+    border:2px solid blue;
+    color:black;
+    padding: 5px;
+}
+.kartinkaSpodarkami{
+    border: 5px solid black;
+}
+.karowka{
+    border: 5px solid green;
+    height:300;
+}
+.xs{
+    text-decoration:none;
+    border-radius:5px;
+    border: 3px solid orange;
+    padding:5px;
+}
+
